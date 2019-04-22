@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="txtAmount">Amount</string>
+    <string name="btnTip">Tip</string>
+    <string name="tenPercent">10%</string>
+    <string name="fifteenPrecent">15%</string>
+    <string name="eighteenPercent">18%</string>
+    <string name="twentyPercent">20%</string>
+    <string name="txtView">$0.00</string>
+</resources>
